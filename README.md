@@ -8,4 +8,5 @@
 - [Day 3 -Arrays, dictionaries, sets, and enums](days-1-15/day-03.swift)
 - [Day 4 - Type annotations](days-1-15/day-04.swift)
 - [Checkpoint 2](days-1-15/checkpoint-2.swift)
+- [Day 5 – If, switch, and the ternary operator](days-1-15/day-05.swift)
   
